@@ -1,7 +1,3 @@
-const arr = [];
-for (let i = 1; i<=100;i++)
-{
-    arr.push(i)
-}
+const chalk = require('chalk')
 
-console.log(arr)
+console.log(chalk.blue('Hello') + ' World' + chalk.red('!'));
