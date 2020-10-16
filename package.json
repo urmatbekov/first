@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "bir nerse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urmatbekov/first.git"
+  },
+  "author": "It Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urmatbekov/first/issues"
+  },
+  "homepage": "https://github.com/urmatbekov/first#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
